@@ -119,4 +119,3 @@ void EntityRenderer::disableCulling() {
 	//Disabled back faces from not being rendered
 	glDisable(GL_CULL_FACE);
 }
-
